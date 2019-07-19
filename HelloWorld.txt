@@ -1,3 +1,0 @@
-Hello World. This is my first git push.
-
-Hello. This is an edit made from a seperate local repository.
